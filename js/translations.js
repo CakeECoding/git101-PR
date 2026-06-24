@@ -13,7 +13,7 @@ export const i18n = {
         htmlLang: "en"
     },
     th: {
-        title: "เค้าสู่ระบบ",
+        title: "เข้าสู่ระบบ",
         userLabel: "อีเมลผู้ใช้งาน",
         passLabel: "รหัสผ่าน",
         submitBtn: "เข้าสู่ระบบ",
