@@ -98,7 +98,6 @@ function handleFormSubmit(event) {
         });
     }
 }
-
 // Bind Event Listeners
 el.langBtn.addEventListener('click', toggleLanguage);
 el.loginForm.addEventListener('submit', handleFormSubmit);
